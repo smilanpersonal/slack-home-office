@@ -1,4 +1,8 @@
-# slack-home-office
+# Purpose
+
+This Rake task runs a Ruby script that sends a curl request to a Slack app webhook, but only on weekdays.
+
+# Setup
 
 ## Create a Slack app for yourself
 
