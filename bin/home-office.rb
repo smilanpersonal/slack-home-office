@@ -8,7 +8,7 @@ homeText = homeText.shuffle
 zText = ["Z megengedte", "Z engedelyevel", "Z tud rola"]
 zText = zText.shuffle
 
-uri = URI.parse("https://hooks.slack.com/services/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")
+uri = URI.parse("https://hooks.slack.com/services/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")
 request = Net::HTTP::Post.new(uri)
 request.content_type = "application/json"
 request.body = JSON.dump({
